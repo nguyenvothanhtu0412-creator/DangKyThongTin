@@ -1,0 +1,6 @@
+<resources>
+    <color name="primary">#1976D2</color>
+    <color name="bg_gray">#F5F7FA</color>
+    <color name="text_dark">#333333</color>
+    <color name="success_green">#4CAF50</color>
+</resources>
